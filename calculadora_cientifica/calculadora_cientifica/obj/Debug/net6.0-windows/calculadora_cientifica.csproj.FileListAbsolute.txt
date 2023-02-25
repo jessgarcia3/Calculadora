@@ -1,0 +1,17 @@
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\bin\Debug\net6.0-windows\calculadora_cientifica.exe
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\bin\Debug\net6.0-windows\calculadora_cientifica.deps.json
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\bin\Debug\net6.0-windows\calculadora_cientifica.runtimeconfig.json
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\bin\Debug\net6.0-windows\calculadora_cientifica.dll
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\bin\Debug\net6.0-windows\calculadora_cientifica.pdb
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.csproj.AssemblyReference.cache
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.Form1.resources
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.AssemblyInfoInputs.cache
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.AssemblyInfo.cs
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.dll
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\refint\calculadora_cientifica.dll
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.pdb
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\calculadora_cientifica.genruntimeconfig.cache
+C:\Users\Casa\source\repos\calculadora_cientifica\calculadora_cientifica\obj\Debug\net6.0-windows\ref\calculadora_cientifica.dll
